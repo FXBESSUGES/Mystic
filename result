@@ -1,0 +1,573 @@
+[
+    {
+        "filedesc": "filedesc:",
+        "filename": "Q811",
+        "lrecl": 0,
+        "recfm": "f"
+    },
+    {
+        "order": 1,
+        "offset": 0,
+        "namevar": "Q811-CDENRT",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 2,
+        "offset": 1,
+        "namevar": "Q811-SOCDEN",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 3,
+        "offset": 2,
+        "namevar": "Q811-NUPREM",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 4,
+        "offset": 10,
+        "namevar": "Q811-NUPRRE",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 5,
+        "offset": 18,
+        "namevar": "Q811-NUAPIR",
+        "length": 5,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 6,
+        "offset": 23,
+        "namevar": "Q811-CDIRT",
+        "length": 5,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 7,
+        "offset": 28,
+        "namevar": "Q811-PETRJO",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 8,
+        "offset": 36,
+        "namevar": "Q811-DATRTE",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 9,
+        "offset": 44,
+        "namevar": "Q811-HETRAI",
+        "length": 4,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    }
+][
+    {
+        "filedesc": "filedesc:",
+        "filename": "Q811",
+        "lrecl": 0,
+        "recfm": "f"
+    },
+    {
+        "order": 1,
+        "offset": 0,
+        "namevar": "Q811-CDENRT",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 2,
+        "offset": 1,
+        "namevar": "Q811-SOCDEN",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 3,
+        "offset": 2,
+        "namevar": "Q811-NUPREM",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 4,
+        "offset": 10,
+        "namevar": "Q811-NUPRRE",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 5,
+        "offset": 18,
+        "namevar": "Q811-NUAPIR",
+        "length": 5,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 6,
+        "offset": 23,
+        "namevar": "Q811-CDIRT",
+        "length": 5,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 7,
+        "offset": 28,
+        "namevar": "Q811-PETRJO",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 8,
+        "offset": 36,
+        "namevar": "Q811-DATRTE",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 9,
+        "offset": 44,
+        "namevar": "Q811-HETRAI",
+        "length": 4,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "filedesc": "filedesc:",
+        "filename": "Q801",
+        "lrecl": 0,
+        "recfm": "f"
+    },
+    {
+        "order": 10,
+        "offset": 0,
+        "namevar": "Q801-CDENRT",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 11,
+        "offset": 1,
+        "namevar": "Q801-SOCDEN",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 12,
+        "offset": 2,
+        "namevar": "Q801-CDBFCL",
+        "length": 5,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 13,
+        "offset": 7,
+        "namevar": "Q801-CDGICL",
+        "length": 5,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 14,
+        "offset": 12,
+        "namevar": "Q801-NUCLRD",
+        "length": 7,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 15,
+        "offset": 19,
+        "namevar": "Q801-CLEFID",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 16,
+        "offset": 20,
+        "namevar": "Q801-IDDOPR",
+        "length": 13,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 17,
+        "offset": 33,
+        "namevar": "Q801-CDBFGP",
+        "length": 5,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 18,
+        "offset": 38,
+        "namevar": "Q801-CDGGPN",
+        "length": 5,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 19,
+        "offset": 43,
+        "namevar": "Q801-CDENJP",
+        "length": 5,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 20,
+        "offset": 48,
+        "namevar": "Q801-IDCONT.0",
+        "length": 22,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 21,
+        "offset": 70,
+        "namevar": "Q801-CDUNIC",
+        "length": 5,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 22,
+        "offset": 75,
+        "namevar": "Q801-CDPROD",
+        "length": 3,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 23,
+        "offset": 78,
+        "namevar": "Q801-CDSP",
+        "length": 3,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 24,
+        "offset": 81,
+        "namevar": "Q801-IDTIER",
+        "length": 7,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 25,
+        "offset": 88,
+        "namevar": "Q801-NUPEPH",
+        "length": 7,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 26,
+        "offset": 95,
+        "namevar": "Q801-NUPERS",
+        "length": 7,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 27,
+        "offset": 102,
+        "namevar": "Q801-NUSIRN",
+        "length": 9,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 28,
+        "offset": 111,
+        "namevar": "Q801-NUENET",
+        "length": 16,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 29,
+        "offset": 127,
+        "namevar": "Q801-DTOUDO",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 30,
+        "offset": 135,
+        "namevar": "Q801-DTFEDO",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 31,
+        "offset": 143,
+        "namevar": "Q801-CDETPR",
+        "length": 2,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 32,
+        "offset": 145,
+        "namevar": "Q801-CDDV",
+        "length": 3,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 33,
+        "offset": 148,
+        "namevar": "Q801-NBDEDV",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 34,
+        "offset": 149,
+        "namevar": "Q801-TYOPIM",
+        "length": 2,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 35,
+        "offset": 151,
+        "namevar": "Q801-SIGNE1",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 36,
+        "offset": 152,
+        "namevar": "Q801-MTOPI7",
+        "length": 16,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 37,
+        "offset": 168,
+        "namevar": "Q801-CDDPCO",
+        "length": 2,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 38,
+        "offset": 170,
+        "namevar": "Q801-CDZGOP",
+        "length": 2,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 39,
+        "offset": 172,
+        "namevar": "Q801-CDPSIM",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 40,
+        "offset": 173,
+        "namevar": "Q801-CDETDS",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 41,
+        "offset": 174,
+        "namevar": "Q801-DACHET",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 42,
+        "offset": 182,
+        "namevar": "Q801-NBECIM",
+        "length": 2,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 43,
+        "offset": 184,
+        "namevar": "Q801-SIGNE2",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 44,
+        "offset": 185,
+        "namevar": "Q801-MTECN7",
+        "length": 16,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 45,
+        "offset": 201,
+        "namevar": "Q801-SIGNE3",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 46,
+        "offset": 202,
+        "namevar": "Q801-MTPEN7",
+        "length": 16,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 47,
+        "offset": 218,
+        "namevar": "Q801-CDPID7",
+        "length": 3,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 48,
+        "offset": 221,
+        "namevar": "Q801-CDSID8",
+        "length": 3,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 49,
+        "offset": 224,
+        "namevar": "Q801-NBGAD7",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 50,
+        "offset": 232,
+        "namevar": "Q801-NBPRC7",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 51,
+        "offset": 240,
+        "namevar": "Q801-NBGAC7",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 52,
+        "offset": 248,
+        "namevar": "Q801-NBPRG7",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 53,
+        "offset": 256,
+        "namevar": "Q801-NBGAG7",
+        "length": 8,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 54,
+        "offset": 264,
+        "namevar": "Q801-SIGNE4",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 55,
+        "offset": 265,
+        "namevar": "Q801-MTAID7",
+        "length": 16,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 56,
+        "offset": 281,
+        "namevar": "Q801-SIGNE5",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 57,
+        "offset": 282,
+        "namevar": "Q801-MTAAD7",
+        "length": 16,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 58,
+        "offset": 298,
+        "namevar": "Q801-INPRCO",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 59,
+        "offset": 299,
+        "namevar": "Q801-INPRFI",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    },
+    {
+        "order": 60,
+        "offset": 300,
+        "namevar": "Q801-TOPRGA",
+        "length": 1,
+        "from": "EBCDIC",
+        "to": "ASCII"
+    }
+]

@@ -1,0 +1,33 @@
+{
+  "filedesc": {
+    "filename": "xxxxxx",
+    "lrecl": "4714",
+    "recfm": "f"
+  },
+  "fields": [
+    {
+      "order": "1",
+      "offset": "0",
+      "length": "8",
+      "from": "packed",
+      "to": "integer",
+      "namevar": "montant"
+    },
+    {
+      "order": "2",
+      "offset": "16",
+      "length": "16",
+      "from": "ebcdic",
+      "to": "ascii",
+      "namevar": "raison sociale"
+    },
+    {
+      "order": "3",
+      "offset": "24",
+      "length": "10",
+      "from": "ebcdic",
+      "to": "ascii",
+      "namevar": "telephone"
+    }
+  ]
+}

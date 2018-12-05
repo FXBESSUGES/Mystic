@@ -1,0 +1,2 @@
+ Lancement du script en test :
+ D:\Python\Projets\Mystic>python MysticParser.py --format=D:\Python\cobol\Q801.json --infile=D:\Python\Projets\Mystic\tests\extrait.data --outfile=./data/test.out

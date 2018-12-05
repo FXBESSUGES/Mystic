@@ -1,0 +1,37 @@
+2018-10-17 14:18:22,667 -- root -- INFO -- the infile specified: 
+2018-10-17 14:18:22,668 -- root -- INFO -- the outfile specified: 
+2018-10-17 14:20:09,773 -- root -- INFO -- the infile specified: 
+2018-10-17 14:20:09,775 -- root -- INFO -- the outfile specified: 
+2018-10-17 14:22:22,854 -- root -- INFO -- the infile specified: 
+2018-10-17 14:22:22,856 -- root -- INFO -- the outfile specified: 
+2018-10-17 15:04:18,008 -- root -- INFO -- the infile specified: 
+2018-10-17 15:04:18,010 -- root -- INFO -- the outfile specified: 
+2018-10-17 15:05:18,282 -- root -- INFO -- the infile specified: 
+2018-10-17 15:05:18,284 -- root -- INFO -- the outfile specified: 
+2018-10-17 15:06:21,856 -- root -- INFO -- the infile specified: 
+2018-10-17 15:06:21,864 -- root -- INFO -- the outfile specified: 
+2018-10-17 15:08:15,003 -- root -- INFO -- the infile specified: 
+2018-10-17 15:08:15,005 -- root -- INFO -- the outfile specified: 
+2018-10-17 15:08:55,581 -- root -- INFO -- the infile specified: 
+2018-10-17 15:08:55,583 -- root -- INFO -- the outfile specified: 
+2018-10-17 15:10:55,192 -- MODSLAVE/18894 -- INFO -- goodbye [127.0.0.1]:59907
+2018-10-17 15:11:36,418 -- MODSLAVE/18894 -- INFO -- goodbye [127.0.0.1]:59910
+2018-10-17 15:12:55,269 -- MODSLAVE/18894 -- INFO -- goodbye [127.0.0.1]:51374
+2018-10-17 15:34:41,371 -- root -- INFO -- the infile specified: 
+2018-10-17 15:34:41,373 -- root -- INFO -- the outfile specified: 
+2018-10-17 15:38:25,927 -- root -- INFO -- the infile specified: 
+2018-10-17 15:38:25,929 -- root -- INFO -- the outfile specified: 
+2018-10-17 15:39:54,859 -- root -- INFO -- the infile specified: 
+2018-10-17 15:39:54,860 -- root -- INFO -- the outfile specified: 
+2018-10-18 13:15:05,404 -- root -- INFO -- the infile specified: 
+2018-10-18 13:15:05,407 -- root -- INFO -- the outfile specified: 
+2018-10-18 13:17:09,939 -- root -- INFO -- the infile specified: 
+2018-10-18 13:17:09,944 -- root -- INFO -- the outfile specified: 
+2018-10-23 09:40:19,304 -- MODSLAVE/18120 -- INFO -- goodbye [127.0.0.1]:58803
+2018-10-23 09:41:10,412 -- MODSLAVE/18504 -- INFO -- goodbye [127.0.0.1]:58837
+2018-10-23 10:47:51,018 -- MODSLAVE/18121 -- INFO -- goodbye [127.0.0.1]:51294
+2018-10-23 10:51:24,563 -- MODSLAVE/18121 -- INFO -- goodbye [127.0.0.1]:61565
+2018-10-23 10:51:32,513 -- MODSLAVE/18121 -- INFO -- goodbye [127.0.0.1]:63480
+2018-10-23 10:51:40,580 -- MODSLAVE/18121 -- INFO -- goodbye [127.0.0.1]:63485
+2018-10-23 10:58:50,326 -- MODSLAVE/18121 -- INFO -- goodbye [127.0.0.1]:63493
+2018-10-23 11:08:40,704 -- MODSLAVE/18121 -- INFO -- goodbye [127.0.0.1]:63204

@@ -1,0 +1,5 @@
+2018-10-23 11:11:57,266 -- MODSLAVE/18121 -- INFO -- goodbye [127.0.0.1]:54795
+2018-10-23 12:29:28,984 -- root -- DEBUG -- formatted message: None
+2018-10-23 12:29:28,985 -- root -- DEBUG -- formatted message: None
+2018-10-23 12:29:28,985 -- root -- DEBUG -- formatted message: D:\Python\cobol\Q801.json
+2018-10-23 12:29:28,985 -- root -- ERROR -- No input file was provided program aborted
